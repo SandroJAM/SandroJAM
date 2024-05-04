@@ -18,10 +18,11 @@ Gerenciamento e Governança de Servidores (Linux, Windows), Banco de Dados Postg
 
 ##
 ### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/sandro-muniz-93ab3333/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-
-&nbsp;<a href="https://www.instagram.com/sandro_jam/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+<div display="inline">
+     &nbsp;<a href="https://www.linkedin.com/in/sandro-muniz-93ab3333/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+     </a>&nbsp;
+     &nbsp;<a href="https://www.instagram.com/sandro_jam/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+     </a>&nbsp;
+</div>

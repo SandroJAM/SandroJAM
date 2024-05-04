@@ -2,7 +2,7 @@
 
 👨🏻‍💻 **Analista de Sistemas** 
 
-Atualmente trabalho na empresa [Credimoveis Novolar Ltda](https://www.credimoveisnovolar.com.br)
+Atualmente trabalho na empresa [Credimoveis Novolar Ltda](https://www.credimoveisnovolar.com.br/)
 
 Administrando Servidores Linux e Windows,  Sistemas ERP e Redes de Computadores, Banco de Dados PostgreSQL. Minha maior responsabilidade é a governança e gerenciamento do Servidor SiTEF, PDV´s e suas formas de pagamentos, treinamentos e suporte a usuários.
 

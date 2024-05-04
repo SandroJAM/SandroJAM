@@ -4,7 +4,11 @@
 
 Atualmente trabalho na empresa [Credimoveis Novolar Ltda](https://www.credimoveisnovolar.com.br)
 
-Gerenciamento e Governança de Servidores (Linux, Windows), Banco de Dados PostgreSQL e no momento tendo como principal responsabilidade, o gerenciamento dos processamentos dos meios de pagamentos transacionados pelo Servidor SiTEF, suporte e treinamento a usuários.
+Administrando Servidores Linux e Windows,  Sistemas ERP e Redes de Computadores, Banco de Dados PostgreSQL. Minha maior responsabilidade é a governança e gerenciamento do Servidor SiTEF, PDV´s e suas formas de pagamentos, treinamentos e suporte a usuários.
+
+Buscando novas experiências em Desenvolvimento Web: Back-end e Front-End.
+
+Usando a seguinte stack: SpringBoot, Java, PHP, Html, CSS, BootStrap, ANgular, React, PostgreSQL, MySQL e Versionamento de Código GitHub.
 
 🖥️ Atualmente focado em:
 

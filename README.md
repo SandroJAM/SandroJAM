@@ -8,18 +8,22 @@ Administrando Servidores Linux e Windows,  Sistemas ERP e Redes de Computadores,
 
 Buscando novas experiências em Desenvolvimento Web: Back-end e Front-End.
 
-Usando a seguinte stack: SpringBoot, Java, PHP, Html, CSS, BootStrap, Angular, React, PostgreSQL, MySQL e Versionamento de Código GitHub.
+Usando a seguinte stack: SpringBoot, Java, NodeJS, PHP, Html, CSS, JavaScript, BootStrap, Angular, React, PostgreSQL, MySQL e Versionamento de Código GitHub.
 
 🖥️ Atualmente focado em:
 
 <div display="inline">
-     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />     
      <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
      <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
      <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
      <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-       
 </div>
 
 ##

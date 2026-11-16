@@ -26,7 +26,6 @@ Usando a seguinte stack: SpringBoot, Java, NodeJS, PHP, Html, CSS, JavaScript, B
      <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />        
 </div>
 
-
 🖥️ Desenvolvimento de software assistido por IA
 
 <div display="inline">

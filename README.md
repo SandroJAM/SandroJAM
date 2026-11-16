@@ -31,7 +31,7 @@ Usando a seguinte stack: SpringBoot, Java, NodeJS, PHP, Html, CSS, JavaScript, B
 🖥️ Desenvolvimento de software assistido por IA
 
 <div display="inline">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
+     <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
 </div>
 ##
 ### Você também me encontra em:

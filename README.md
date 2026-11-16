@@ -1,8 +1,6 @@
 ### Oi, meu nome é **Sandro Muniz** 👋
 
-👨🏻‍💻 **Analista de Sistemas** 
-
-Atualmente trabalho na empresa [Credimoveis Novolar Ltda](https://www.credimoveisnovolar.com.br/)
+👨🏻‍💻 **Analista de Sistemas** Atualmente trabalho na empresa [Credimoveis Novolar Ltda](https://www.credimoveisnovolar.com.br/)
 
 Administrando Servidores Linux e Windows,  Sistemas ERP e Redes de Computadores, Banco de Dados PostgreSQL. Minha maior responsabilidade é a governança e gerenciamento do Servidor SiTEF, PDV´s e suas formas de pagamentos, treinamentos e suporte a usuários.
 
@@ -33,6 +31,7 @@ Usando a seguinte stack: SpringBoot, Java, NodeJS, PHP, Html, CSS, JavaScript, B
 <div display="inline">
      <img width="50 ehigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
 </div>
+
 ##
 ### Você também me encontra em:
 <div display="inline">
